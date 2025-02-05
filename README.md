@@ -1,6 +1,6 @@
 # Power-BI-Real-time-Project---Blinkit-ananlysis
-📊 Blinket Sales & Product Analysis Dashboard
-This project features an interactive and dynamic dashboard built for analyzing sales and product performance for Blinket, a leading online grocery shopping platform.
+📊 Blinkit Sales & Product Analysis Dashboard
+This project features an interactive and dynamic dashboard built for analyzing sales and product performance for Blinkit, a leading online grocery shopping platform.
 
 🔑 Highlights:
 Comprehensive KPIs: Includes total sales, average sales, number of items, and average ratings.
